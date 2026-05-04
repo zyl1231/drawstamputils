@@ -20,11 +20,11 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xxss0903/drawstamputils"
+    "url": "https://github.com/zyl1231/drawstamputils"
   },
   "license": "Apache-2.0",
-  "homepage": "https://github.com/xxss0903/drawstamputils",
-  "author": "xxss0903",
+  "homepage": "https://github.com/zyl1231/drawstamputils",
+  "author": "zyl1231",
   "main": "src/DrawStampUtils.ts",
   "scripts": {
     "dev": "vite",
@@ -32,6 +32,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "drawstamputils": "^0.2.1",
     "rollup": "^4.27.4",
     "vue": "^3.4.37",
     "vue-i18n": "^11.0.0-beta.2",
